@@ -1,0 +1,40 @@
+ nav a {
+    width: calc(103%/6);
+    padding: 1%;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid red;
+    background-color: aquamarine;
+    outline: 1px solid red;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+
+nav {
+    position: sticky;
+    top: 0%;
+    background-color: white;
+}
+
+body {
+    text-align: right;
+    direction: rtl;
+}
+.student-image {
+    width: 60%;
+    padding: 5% 20%;
+}
+h1 {
+    background-image: url("../OIP1.webp");
+    background-size: cover;
+    text-align: center;
+    margin-right: calc((100% - 242.33px)/2);
+    width: fit-content;
+    margin-top: 21.44px;
+    color: white;
+}
+#first-p {
+    font-size: 20px;
+}

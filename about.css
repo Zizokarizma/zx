@@ -1,0 +1,59 @@
+a {
+    width: calc(103%/6);
+    padding: 1%;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid red;
+    background-color: aquamarine;
+    outline: 1px solid red;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    position: sticky;
+    top: 0%;
+}
+
+nav {
+    position: sticky;
+    top: 0%;
+    background-color: white;
+} 
+
+body {
+    text-align: right;
+    direction: rtl;
+}
+
+h1 {
+    text-align: center;
+    background-image: url("../OIP1.webp");
+    background-size: cover;
+    margin-right: calc((100% - 242.33px)/2);
+    width: fit-content;
+    margin-top: 21.44px;
+    color: white;
+}
+#image-for-team {
+    width: 60%;
+    padding: 5% 20%;
+}
+#p1 {
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+}
+.p2{
+    font-size: 17px;
+    line-height: 1.6;
+}
+div {
+    width: 24%;
+    text-align: center;
+    margin: 5px 0px;
+    display: inline-block;
+}
+.submit {
+    text-align: center;
+    width: 100%;
+}
